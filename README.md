@@ -1,1 +1,2 @@
 # PowerBI1
+This interactive Power BI dashboard provides a comprehensive overview of e-commerce sales performance. It highlights key metrics such as total sales amount, quantity sold, profit, and average order value. The report includes state-wise sales breakdown, category and sub-category performance, monthly profit trends, customer-wise sales, and payment-mode distribution. Slicers for quarter and state allow easy data filtering, enabling deeper insights and better decision-making.
